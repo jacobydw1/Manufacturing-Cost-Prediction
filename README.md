@@ -1,0 +1,2 @@
+# Manufacturing-Cost-Prediction
+Predicting Relationship between manufacturing cost and number of units; Let's assume I work as a consultant to a start-up company that was looking to develop a model to estimate the cost of goods sold as they vary the production volume (number of units produced). The startup gathered data and has asked me to develop a model to predict its cost vs. the number of units sold.
